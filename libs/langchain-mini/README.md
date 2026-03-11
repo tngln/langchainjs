@@ -1,12 +1,12 @@
 # @langchain/mini
 
 > A streamlined, minimal LangChain-compatible implementation in TypeScript.
-> Zero runtime dependencies. ~2 000 lines of code.
+> Zero runtime dependencies. ~2,000 lines of code.
 
 ## Why?
 
 `@langchain/core` and the broader LangChain ecosystem are powerful but can
-feel heavy for many use-cases. `@langchain/mini` covers the 90 % use-case
+feel heavy for many use-cases. `@langchain/mini` covers the 90% use-case
 with a tiny, auditable implementation you can understand end-to-end.
 
 | Feature | Lines of code |
@@ -18,7 +18,7 @@ with a tiny, auditable implementation you can understand end-to-end.
 | Output parsers | ~160 |
 | Tools + ToolRegistry | ~230 |
 | Memory / ConversationChain | ~200 |
-| **Total** | **~1 660** |
+| **Total** | **~1,660** |
 
 ## Installation
 
